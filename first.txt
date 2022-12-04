@@ -2,3 +2,4 @@ Practice for git
 ・git add
 ・git commit
 git remove 
+aaaa
